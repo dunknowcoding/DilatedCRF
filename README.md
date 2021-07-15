@@ -1,7 +1,7 @@
 # DilatedCRF
-Pytorch implementation for my fully-learnable DilatedCRF. 
+Pytorch implementation for fully-learnable DilatedCRF. 
 ***********************************
-If you find my work helpful, please consider citing my paper (currently under review):
+If you find my work helpful, please consider citing the paper (currently under review):
 ```
 @article{Mo2022fullylearnable,
     title={Fully-Learnable Dilated Continuous Random Field in Predicting Affordance Maps for Robotic Suction Task},  
