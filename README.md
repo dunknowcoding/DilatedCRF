@@ -3,7 +3,7 @@ Pytorch implementation for fully-learnable DilatedCRF.
 ***********************************
 If you find my work helpful, please consider citing the paper (currently under review):
 ```
-@article{Mo2022fullylearnable,
+@article{Mo2022dilatedcrf,
     title={Fully-Learnable Dilated Continuous Random Field in Predicting Affordance Maps for Robotic Suction Task},  
     author={Xi Mo, Xiangyu Chen, Cuncong Zhong, Guanghui Wang, Rui Li, Kaidong Li, Sajid Usman},
     booktitle={IEEE International Conference on Robotics and Automation}, 
