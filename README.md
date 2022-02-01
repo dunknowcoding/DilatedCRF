@@ -6,7 +6,7 @@ If you find my work helpful, please consider citing the paper (currently under r
 @article{Mo2022fullylearnable,
     title={Fully-Learnable Dilated Continuous Random Field in Predicting Affordance Maps for Robotic Suction Task},  
     author={Xi Mo, Xiangyu Chen, Cuncong Zhong, Guanghui Wang, Rui Li, Kaidong Li, Sajid Usman},
-    booktitle={Manucript under review}, 
+    booktitle={IEEE International Conference on Robotics and Automation}, 
     year={2022}  
 }
 ```
